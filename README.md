@@ -1,4 +1,4 @@
-## Hello World 👋 I'm Ian Luan
+# Hello World 👋 I'm Ian Luan
 
 I'm a Computer Science student at Universidade Federal de Sergipe. I love to work with mobile, web and backend, with tools like Flutter, VueJs, NodeJs and Python. 
 
