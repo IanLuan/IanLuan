@@ -9,5 +9,7 @@ I'm a Computer Science student at Universidade Federal de Sergipe. I love to wor
 [<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/22kpf3zz5zrcd2nqh3cyjiara)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ianluan13@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=IanLuan&theme=dracula&line_height=27">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanLuan&hide=html,css&theme=dracula">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IanLuan&theme=dracula&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanLuan&hide=html,css&theme=dracula">
+</p>
