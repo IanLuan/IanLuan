@@ -5,7 +5,7 @@ I'm a Computer Science student at Universidade Federal de Sergipe. I love to wor
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ianluan/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/ianluan)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/IanLuan)
-[<img src="https://img.shields.io/badge/ianluan13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ianluan13@gmail.com)
+[<img src="https://img.shields.io/badge/ianluan13#gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ianluan13@gmail.com)
 [<img src="https://img.shields.io/badge/IanLuan#7335-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](mailto:ianluan13@gmail.com)
 
 <p style="text-align: center">
