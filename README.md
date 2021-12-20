@@ -1,6 +1,6 @@
 # Hello World 👋 I'm Ian Luan
 
-I'm a Computer Science student at Universidade Federal de Sergipe. I love to build things and work with backend, mobile and web. I'm also passionate about data, machine learning and computer vision.
+I'm a Computer Science student at Universidade Federal de Sergipe. I love to build things and work with web and mobile development. I'm also passionate about data, machine learning and computer vision.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ianluan/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/ianluan)
