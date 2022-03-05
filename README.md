@@ -1,4 +1,4 @@
-# Hello World 👋 I'm Ian Luan
+# Ian Luan - Front-end Developer | Tech Lead @LAIS
 
 I'm a Computer Science student at Universidade Federal de Sergipe. I love to build things and work with web development. I am very interested in scalable and data-driven applications. I'm also passionate about machine learning and computer vision.
 
