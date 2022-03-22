@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Universidade Federal de Sergipe. I love to build things and work with web development. I am very interested in scalable and data-driven applications. I'm also passionate about machine learning and computer vision.
 
-I work as a Web Developer (Tech Lead) at Laboratório de Inovação Tecnológica em Saúde (LAIS).
+I work as a Software Developer (Tech Lead) at Laboratório de Inovação Tecnológica em Saúde (LAIS).
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ianluan/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/ianluan)
