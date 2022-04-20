@@ -1,6 +1,6 @@
 # Ian Luan - Software Engineer
 
-Software developer who loves to build things and work with both Front-end and Back-end in product development. Very interested in scalable and data-driven applications. Computer Science Student.
+Software developer who loves to build things and work with both Back-end and Front-end in product development. Very interested in scalable and data-driven applications. Computer Science Student.
 
 Working as a Software Developer (Tech Lead) at Laboratório de Inovação Tecnológica em Saúde (LAIS).
  
