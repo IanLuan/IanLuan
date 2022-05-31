@@ -1,8 +1,11 @@
 # Ian Luan - Software Engineer
 
-Software developer who loves to build things and work with both Back-end and Front-end in product development. Very interested in scalable and data-driven applications. Computer Science Student.
+Software engineer who loves to build things and work with both Backend and Frontend development. Very interested in scalable and data-driven applications. I have experience working with Node.js, Vue.js, React.js, Python/Django.
 
-Working as a Software Developer (Tech Lead) at Laboratório de Inovação Tecnológica em Saúde (LAIS).
+👨🏻‍💻 Working as a Backend Developer at Protech Solutions (C#, .NET, SQLServer).
+🌱 Studying distributed systems.
+
+
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ianluan/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/ianluan)
