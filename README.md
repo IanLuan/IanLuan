@@ -16,6 +16,5 @@ Software engineer who loves to build things and work with both Backend and Front
 
 
 <p style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IanLuan&theme=radical&line_height=20">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanLuan&hide=html,css,scss,dart&theme=radical&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=IanLuan&theme=radical&line_height=22">
 </p>
