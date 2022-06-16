@@ -1,6 +1,6 @@
 # Ian Luan - Software Engineer
 
-Software engineer who loves to build things and work with both Backend and Frontend development. Very interested in scalable and data-driven applications. I have experience working with Node.js, .NET, Vue.js, React.js, Django.
+Software engineer who loves to build things and work with both Frontend and Backend development. Very interested in scalable and data-driven applications. I have experience working with Node.js, React.js, Vue.js .NET, Django.
 
 
 👨🏻‍💻 Working as a Backend Developer at Protech Solutions (C#, .NET, SQLServer).\
