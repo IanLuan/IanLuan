@@ -4,7 +4,6 @@ Software engineer who loves to build things and work with both Frontend and Back
 
 
 🏢 Leading a Frontend team at LAIS (Laboratory of Technological Innovation in Health).\
-🌱 Always learning something new.
 
 
  
