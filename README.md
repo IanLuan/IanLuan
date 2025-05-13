@@ -3,7 +3,7 @@
 Software engineer who loves to build things and work with both Frontend and Backend development. Very interested in scalable and data-driven applications. I have experience working with React.js, Vue.js, Node.js, Django and .NET.
 
 
-🏢 Leading a Frontend team at LAIS (Laboratory of Technological Innovation in Health).\
+🏢 Leading a Frontend team at LAIS (Laboratory of Technological Innovation in Health).
 
 
  
