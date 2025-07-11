@@ -1,6 +1,6 @@
 # Ian Oliveira - Software Engineer
 
-Software engineer who loves to build things and work with both Frontend and Backend development. Very interested in scalable and data-driven applications. I have experience working with React.js, Vue.js, Node.js, Django and .NET.
+Computer Science graduate from the Federal University of Sergipe, currently working as a Software Engineer with experience in both Frontend and Backend technologies. I currently lead the Frontend development of digital products that collectively serve over 8 million users. I'm particularly interested in scalable, data-driven applications and in turning technical challenges into practical and efficient solutions.
 
 
 🏢 Leading a Frontend team at LAIS (Laboratory of Technological Innovation in Health).
