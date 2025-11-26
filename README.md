@@ -1,6 +1,6 @@
 # Ian Luan
 
-Frontend engineer with a degree in Computer Science from the Federal University of Sergipe. Currently working on Loomi. Previously, I led frontend development for healthcare applications that impact millions of users. My work focuses on performance, accessibility, and scalability, leveraging modern technologies such as React, Next.js, Vue, and TypeScript.
+Software engineer with a degree in Computer Science from the Federal University of Sergipe. Currently working at Loomi. Previously, I led frontend development for healthcare applications used by millions of people. I focus on architecture, performance, and scalability, leveraging modern technologies and patterns such as React/Next.js, Node.js, TypeScript, and microfrontends.
 
 📧 ianluan13@gmail.com
 
