@@ -1,6 +1,6 @@
 # Ian Oliveira
 
-Software engineer with a degree in Computer Science from the Federal University of Sergipe. Currently working at Loomi. Previously, I led frontend development for healthcare applications used by millions of people. I focus on architecture, performance, and scalability, leveraging modern technologies and patterns such as React/Next.js, Node.js, TypeScript, and microfrontends.
+Software Engineer with over 5 years of professional experience building scalable, high-impact applications. I have a solid background in frontend development, having led projects that serve millions of users with a focus on performance and architecture using React, Next.js, TypeScript, and microfrontends. On the backend, I develop robust services using Node.js and Django, with experience in microservices, cloud infrastructure, and BFFs. I am experienced in implementing modern, end-to-end solutions that ensure long-term scalability and system maintainability.
 
 📧 ianluan13@gmail.com
 
