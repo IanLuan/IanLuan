@@ -1,6 +1,12 @@
 # Ian Oliveira
 
-Software Engineer working across frontend and backend, building scalable applications. On the frontend, I have strong experience with React, Next.js, TypeScript, and microfrontends, focusing on architecture and performance. On the backend, I develop services using Node.js and Django, with experience in microservices, cloud infrastructure, and BFFs. Previously worked on healthcare products and currently working in the telecom domain.
+Software Engineer building reliable web and cross-platform applications.
+ 
+I work mainly with React, Next.js, and React Native, delivering scalable and maintainable products with a focus on performance and architecture.
+ 
+I also have experience working with backend systems using Node.js and Django, which helps me understand end-to-end flows and collaborate effectively across the stack. 
+ 
+Previously worked on healthcare products and currently working with AI-native applications.
 
 📧 ianluan13@gmail.com
 
